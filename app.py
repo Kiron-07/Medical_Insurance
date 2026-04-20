@@ -26,6 +26,4 @@ input_data = pd.DataFrame({
 if st.button("Predict"):
     result = model.predict(input_data)[0][0]
     st.success(f"Predicted Insurance Charge: ₹ {round(result,2)}")
-
-st.write("**Accuracy** ≈ 75%")
-st.write("Built by **Mirza Hussain Mazumder**...")
+    st.write("Built by **Kironjyoti Deb**...")
