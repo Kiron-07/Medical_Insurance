@@ -6,7 +6,7 @@ A **Linear Regression** model is trained using the *insurance.csv* dataset and d
 ---
 
 ## 🚀 Live Demo
-`🔗 https://medical-insurance-charges-cecdyy3svgqu5hsiabp7ns.streamlit.app/`
+`🔗 https://medicalinsurance-kv8rapp36hkvgpu4885uxt8.streamlit.app/`
 
 ---
 
